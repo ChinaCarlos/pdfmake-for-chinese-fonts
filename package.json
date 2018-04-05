@@ -1,0 +1,24 @@
+{
+  "name": "pdfmake-for-chinese-fonts",
+  "version": "1.0.0",
+  "description": "export PDF by pdfmake.js support chinese fonts you can learn more pdfmake.js and soon . if you like ....then GG",
+  "main": "pdfmake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maliaoMJ/pdfmake-for-chinese-fonts.git"
+  },
+  "keywords": [
+    "chinese-fonts",
+    "pdf",
+    "pdfmake.js"
+  ],
+  "author": "majian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maliaoMJ/pdfmake-for-chinese-fonts/issues"
+  },
+  "homepage": "https://github.com/maliaoMJ/pdfmake-for-chinese-fonts#readme"
+}
